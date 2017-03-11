@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "mhc:blocks/petrified_stone_block"
+    }
+}

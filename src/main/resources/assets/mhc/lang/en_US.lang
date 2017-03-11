@@ -1,0 +1,28 @@
+//Items\\
+item.petrified_stone.name=Petrified Stone
+item.mega_stone.name=Mega Stone Chunk
+
+//Blocks\\
+tile.petrified_stone_block.name=Petrified Stoneblock
+tile.mega_stone_ore.name=MegaStone Ore
+
+//Foods\\
+item.lagniapple.name=Lagniapple
+
+//Tabs\\
+itemGroup.tabMHCFood=MHC Food
+itemGroup.tabMHCItems=MHC Items
+itemGroup.tabMHCBlocks=MHC Blocks
+itemGroup.tabMHCWeapons=MHC Weapons
+itemGroup.tabMHCTools=MHC Tools
+
+//Tools\\
+item.petrified_axe.name=Petrified Axe
+item.petrified_shovel.name=Petrified Shovel
+item.petrified_pickaxe.name=Petrified Pickaxe
+item.mega_axe.name=Mega Axe
+item.mega_shovel.name=Mega Shovel
+item.mega_pickaxe.name=Mega Pickaxe
+
+//Weapons\\
+item.petrified_sword.name=Petrified Sword
